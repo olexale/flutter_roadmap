@@ -39,6 +39,7 @@
 * https://pub.dev/packages/sqflite
 * https://pub.dev/packages/firebase
 * https://pub.dev/packages/moor
+* https://pub.dev/packages/hive( Learn Hive: https://medium.com/@viveky259259/hive-for-flutter-1-when-why-database-cea0013c9fc1)
 
 #### Architecture
 * https://fluttersamples.com
@@ -63,6 +64,12 @@
 * https://flutter.dev/docs/development/packages-and-plugins/developing-packages
 * https://cocoapods.org
 * https://maven.apache.org
+
+#### State Management
+* https://pub.dev/packages/flutter_bloc
+  Learn from : 1. https://medium.com/@viveky259259/bloc-for-flutter-part-1-e87cf75fd768
+               2. https://www.youtube.com/watch?v=D6pBM5-7enU
+* https://pub.dev/packages/provider
 
 #### Profiling
 * https://flutter.dev/docs/perf/rendering/ui-performance
