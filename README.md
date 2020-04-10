@@ -39,6 +39,7 @@
 * https://pub.dev/packages/sqflite
 * https://pub.dev/packages/firebase
 * https://pub.dev/packages/moor
+* https://pub.dev/packages/hive
 
 #### Architecture
 * https://fluttersamples.com
