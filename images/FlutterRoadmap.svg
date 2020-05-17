@@ -1,0 +1,336 @@
+<svg width="940" height="2957" viewBox="0 0 940 2957" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="940" height="2957" fill="white"/>
+<path d="M468.565 107.317L468.565 2878.4" stroke="#83A5FF" stroke-width="5.03834"/>
+<path d="M395.51 2800.81H542.125V2843.13H395.51V2800.81Z" fill="white"/>
+<g filter="url(#filter0_d)">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32.2454" letter-spacing="0em"><tspan x="410.609" y="2832.99">The End</tspan></text>
+</g>
+<path d="M395.51 2282.37H542.125V2356.43H395.51V2282.37Z" fill="white"/>
+<g filter="url(#filter1_d)">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32.2454" letter-spacing="0em"><tspan x="417.458" y="2311.42">Almost </tspan><tspan x="432.258" y="2349.42">there</tspan></text>
+</g>
+<path d="M395.51 1245.48H542.125V1319.54H395.51V1245.48Z" fill="white"/>
+<g filter="url(#filter2_d)">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32.2454" letter-spacing="0em"><tspan x="416.86" y="1274.53">Getting&#10;</tspan><tspan x="418.072" y="1312.53">Deeper</tspan></text>
+</g>
+<path d="M395.51 537.087H542.125V579.409H395.51V537.087Z" fill="white"/>
+<g filter="url(#filter3_d)">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32.2454" letter-spacing="0em"><tspan x="422.528" y="569.269">Flutter</tspan></text>
+</g>
+<path d="M395.51 169.288H542.125V211.61H395.51V169.288Z" fill="white"/>
+<g filter="url(#filter4_d)">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32.2454" letter-spacing="0em"><tspan x="421.016" y="201.47">Basics</tspan></text>
+</g>
+<path d="M641.884 274.589H470.076" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.069" cy="276.605" r="20.1534" fill="#83A5FF"/>
+<rect x="513.91" y="212.618" width="255" height="195.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="595.38" y="235.645">Dev Environment</tspan></text>
+<rect x="528.018" y="244.863" width="227.229" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="542.487" y="267.386">Android Studio </tspan><tspan x="636.236" y="267.386"> Visual Studio Code</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="624.982" y="267.386">or</tspan></text>
+<rect x="528.018" y="298.27" width="100.263" height="36.7799" fill="#FFEE95"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="550.452" y="320.793">Flutter CLI</tspan></text>
+<rect x="528.018" y="351.676" width="100.263" height="36.7799" fill="#FFEE95"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="570.58" y="374.199">Git</tspan></text>
+<rect x="654.983" y="298.27" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="683.204" y="320.793">DartPad</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="791.522" y="202.086">Choose either </tspan><tspan x="826.676" y="216.086"> or </tspan><tspan x="866.932" y="216.086"> and learn </tspan><tspan x="843.527" y="230.086"> and IDE </tspan><tspan x="831.435" y="244.086">. A few hours </tspan><tspan x="791.522" y="258.086">spent on shortcuts will </tspan><tspan x="791.522" y="272.086">save you weeks later.&#x2028;</tspan><tspan x="791.522" y="286.086">It is useful to know </tspan><tspan x="791.522" y="300.086">Flutter CLI as some </tspan><tspan x="791.522" y="314.086">tasks are faster to get </tspan><tspan x="791.522" y="328.086">done from the </tspan><tspan x="868.443" y="342.086">.&#x2028;</tspan><tspan x="791.522" y="356.086">&#x2028;</tspan><tspan x="791.522" y="370.086">Create a habit to use a </tspan><tspan x="915.465" y="384.086"> </tspan><tspan x="791.522" y="398.086">the sooner the better. </tspan><tspan x="791.522" y="412.086">For today the most </tspan><tspan x="791.522" y="426.086">popular is Git. While </tspan><tspan x="791.522" y="440.086">you might look cool </tspan><tspan x="791.522" y="454.086">using command line, </tspan><tspan x="791.522" y="468.086">prefer </tspan><tspan x="850.482" y="468.086">, </tspan><tspan x="915.512" y="468.086">, </tspan><tspan x="791.522" y="482.086">or Git client integrated </tspan><tspan x="791.522" y="496.086">into your </tspan><tspan x="859.362" y="496.086">.</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="868.975" y="202.086">Android </tspan><tspan x="791.522" y="216.086">Studio</tspan><tspan x="843.669" y="216.086">VSC</tspan><tspan x="791.522" y="230.086">shortcuts</tspan><tspan x="791.522" y="244.086">plugins</tspan><tspan x="791.522" y="342.086">command line</tspan><tspan x="791.522" y="384.086">version control system</tspan><tspan x="826.275" y="468.086">Fork</tspan><tspan x="855.855" y="468.086">Sourcetree</tspan><tspan x="841.165" y="496.086">IDE</tspan></text>
+<path d="M467.558 398.029H295.75" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.069" cy="398.029" r="20.1534" fill="#83A5FF"/>
+<rect x="165.761" y="324.469" width="255" height="148.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="266.55" y="347.496">Language</tspan></text>
+<rect x="184.403" y="362.256" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="223.104" y="384.779">Dart</tspan></text>
+<rect x="302.804" y="415.663" width="100.263" height="36.7799" fill="#FFEE95"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="324.831" y="438.186">Functional</tspan></text>
+<rect x="302.804" y="362.256" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="324.323" y="384.779">Code Style</tspan></text>
+<rect x="184.403" y="415.663" width="100.263" height="36.7799" fill="#FFEE95"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="222.407" y="438.186">OOP</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="24.1841" y="310.41">It is important to follow </tspan><tspan x="24.1841" y="324.41">code style, but if you&#x2019;re </tspan><tspan x="24.1841" y="338.41">completely new it </tspan><tspan x="24.1841" y="352.41">might add frustration, </tspan><tspan x="24.1841" y="366.41">so feel free to skip it for </tspan><tspan x="24.1841" y="380.41">now, but get back to it </tspan><tspan x="24.1841" y="394.41">later. &#x201c;Effective Dart&#x201d; </tspan><tspan x="24.1841" y="408.41">manual is a way to go.&#10;</tspan><tspan x="24.1841" y="422.41">&#x2028;</tspan><tspan x="24.1841" y="436.41">Speaking of OOP and </tspan><tspan x="24.1841" y="450.41">Functional - for now, </tspan><tspan x="24.1841" y="464.41">keep it simple. No </tspan><tspan x="24.1841" y="478.41">worries about monads </tspan><tspan x="24.1841" y="492.41">or complex OOP </tspan><tspan x="24.1841" y="506.41">patterns at this stage.</tspan></text>
+<path d="M641.884 647.426H470.076" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.069" cy="647.426" r="20.1534" fill="#83A5FF"/>
+<rect x="513.91" y="576.89" width="255" height="141.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="602.749" y="599.916">Basic Widgets</tspan></text>
+<rect x="528.018" y="615.181" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="532.674" y="637.704">Material Widgets</tspan></text>
+<rect x="654.983" y="613.166" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="663.094" y="635.689">Material Design</tspan></text>
+<rect x="528.018" y="668.587" width="100.263" height="36.7799" fill="#FFEE95"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="531.853" y="691.11">Cupertino Design</tspan></text>
+<rect x="654.983" y="668.587" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="675.269" y="691.11">Mobile HIG</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="791.522" y="610.191">Watch </tspan><tspan x="821.457" y="624.191"> on Youtube, </tspan><tspan x="791.522" y="638.191">explore material design </tspan><tspan x="791.522" y="652.191">concepts, get familiar </tspan><tspan x="791.522" y="666.191">with basic widgets </tspan><tspan x="791.522" y="680.191">Flutter shipping with.</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="828.577" y="610.191">Widget of the </tspan><tspan x="791.522" y="624.191">Week</tspan></text>
+<path d="M467.559 761.292H295.751" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.069" cy="761.293" r="20.1534" fill="#83A5FF"/>
+<rect x="165.761" y="632.815" width="255" height="257.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="235.517" y="655.842">Core Design Patterns</tspan></text>
+<rect x="179.869" y="671.106" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="205.881" y="693.629">Observer</tspan></text>
+<rect x="306.834" y="671.106" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="328.938" y="693.629">Command</tspan></text>
+<rect x="306.834" y="726.528" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="323.872" y="742.051">Dependency </tspan><tspan x="333.933" y="756.051">Injection</tspan></text>
+<rect x="306.834" y="779.935" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="342.926" y="802.458">State</tspan></text>
+<rect x="302.804" y="835.356" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="323.633" y="857.879">Composite</tspan></text>
+<rect x="179.869" y="726.528" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="209.973" y="749.051">Factory</tspan></text>
+<rect x="179.869" y="779.935" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="211.289" y="802.458">Builder</tspan></text>
+<rect x="179.869" y="835.356" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="203.578" y="857.879">Decorator</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="24.1841" y="648.987">Design Patterns are </tspan><tspan x="24.1841" y="662.987">building blocks for your </tspan><tspan x="24.1841" y="676.987">future apps. They will </tspan><tspan x="24.1841" y="690.987">help you understand </tspan><tspan x="24.1841" y="704.987">not only more </tspan><tspan x="24.1841" y="718.987">advanced approaches </tspan><tspan x="24.1841" y="732.987">for the development </tspan><tspan x="24.1841" y="746.987">but the framework </tspan><tspan x="24.1841" y="760.987">itself. Moreover, they </tspan><tspan x="24.1841" y="774.987">are universal and not </tspan><tspan x="24.1841" y="788.987">relate to the framework </tspan><tspan x="24.1841" y="802.987">or language, so </tspan><tspan x="24.1841" y="816.987">studying them is a </tspan><tspan x="24.1841" y="830.987">good investment for </tspan><tspan x="24.1841" y="844.987">your future. &#10;</tspan><tspan x="24.1841" y="858.987">The old </tspan><tspan x="51.1313" y="872.987"> is a good start.</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="67.132" y="858.987">Gang of Four </tspan><tspan x="24.1841" y="872.987">book</tspan></text>
+<path d="M641.884 875.159H470.076" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.069" cy="874.655" r="20.1534" fill="#83A5FF"/>
+<rect x="513.91" y="799.08" width="255" height="151.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="579.58" y="822.107">Core Design Principles</tspan></text>
+<rect x="528.018" y="844.425" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="565.532" y="866.948">KISS</tspan></text>
+<rect x="528.018" y="899.847" width="100.263" height="36.7799" fill="#FFEE95"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="561.534" y="922.37">SOLID</tspan></text>
+<rect x="654.983" y="844.425" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="693.932" y="866.948">DRY</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="791.522" y="801.144">KISS and DRY must be </tspan><tspan x="791.522" y="815.144">your tactical skills </tspan><tspan x="791.522" y="829.144">during software </tspan><tspan x="791.522" y="843.144">development, but SOLID </tspan><tspan x="791.522" y="857.144">principles are your </tspan><tspan x="791.522" y="871.144">strategic foundation. </tspan><tspan x="812.896" y="899.144"> will help you with </tspan><tspan x="791.522" y="913.144">all of them.&#x2028;</tspan><tspan x="791.522" y="927.144">&#x2028;</tspan><tspan x="791.522" y="941.144">Start using </tspan><tspan x="898.744" y="941.144"> or </tspan><tspan x="821.752" y="955.144">.</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="791.522" y="885.144">Clean Code by Uncle </tspan><tspan x="791.522" y="899.144">Bob</tspan><tspan x="852.891" y="941.144">Provider</tspan><tspan x="791.522" y="955.144">get_it</tspan></text>
+<path d="M467.559 1014.72H295.751" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.069" cy="1014.22" r="20.1534" fill="#83A5FF"/>
+<rect x="165.761" y="941.161" width="255" height="146.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="261.927" y="964.188">Networking</tspan></text>
+<rect x="179.869" y="979.453" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="197.828" y="1001.98">RESTful API</tspan></text>
+<rect x="306.834" y="979.453" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="314.727" y="1001.98">TCP/IP Sockets</tspan></text>
+<rect x="179.869" y="1035.38" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="214.608" y="1057.9">JSON</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="24.1841" y="952.295">You need to understand </tspan><tspan x="24.1841" y="966.295">how networking works </tspan><tspan x="24.1841" y="980.295">and know all the magic </tspan><tspan x="24.1841" y="994.295">in frontend-backend </tspan><tspan x="24.1841" y="1008.3">communication. Use </tspan><tspan x="24.1841" y="1022.3">code generation in </tspan><tspan x="24.1841" y="1036.3">production.&#x2028;</tspan><tspan x="24.1841" y="1050.3"> &#x2028;</tspan><tspan x="70.2849" y="1064.3"> and </tspan><tspan x="115.063" y="1078.3"> are </tspan><tspan x="24.1841" y="1092.3">your best friends here.</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="24.1841" y="1064.3">Chopper</tspan><tspan x="24.1841" y="1078.3">json_serializable</tspan></text>
+<path d="M641.884 1103.4H470.076" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.069" cy="1102.89" r="20.1534" fill="#83A5FF"/>
+<rect x="513.91" y="1033.36" width="255" height="151.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="588.761" y="1056.39">Simple Persistence</tspan></text>
+<rect x="528.018" y="1134.13" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="553.859" y="1156.65">Keychain</tspan></text>
+<rect x="652.465" y="1134.13" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="679.174" y="1156.65">Keystore</tspan></text>
+<rect x="652.465" y="1076.69" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="666.167" y="1099.22">Local storage</tspan></text>
+<rect x="528.018" y="1076.69" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="550.281" y="1099.22">Serializers</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="791.522" y="1049.53">Almost every app needs </tspan><tspan x="791.522" y="1063.53">to store some data. </tspan><tspan x="791.522" y="1077.53">Almost every app </tspan><tspan x="791.522" y="1091.53">doesn&#x2019;t need big </tspan><tspan x="791.522" y="1105.53">storage. Keep it simple </tspan><tspan x="791.522" y="1119.53">and use basic </tspan><tspan x="791.522" y="1133.53">persistence when it is </tspan><tspan x="791.522" y="1147.53">enough. Consider using </tspan><tspan x="858.713" y="1161.53"> plugin or </tspan><tspan x="791.522" y="1175.53">its alternatives.</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="791.522" y="1161.53">localstorage</tspan></text>
+<path d="M470.077 1417.28H298.27" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.069" cy="1417.28" r="20.1534" fill="#83A5FF"/>
+<rect x="168.28" y="1347.76" width="255" height="139.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="270.291" y="1370.78">Database</tspan></text>
+<rect x="182.388" y="1379.5" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="214.865" y="1402.02">SQLite</tspan></text>
+<rect x="182.388" y="1430.38" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="209.504" y="1452.91">Firebase</tspan></text>
+<rect x="309.354" y="1430.38" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="342.41" y="1452.91">iCloud</tspan></text>
+<rect x="309.354" y="1379.5" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="345.262" y="1402.02">Moor</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="24.1841" y="1358.39">When data storage </tspan><tspan x="24.1841" y="1372.39">becomes a problem - </tspan><tspan x="24.1841" y="1386.39">switch to more mature </tspan><tspan x="24.1841" y="1400.39">solutions, or even to the </tspan><tspan x="24.1841" y="1414.39">cloud.</tspan></text>
+<path d="M639.364 1497.39H467.557" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.069" cy="1496.89" r="20.1534" fill="#83A5FF"/>
+<rect x="511.391" y="1425.85" width="255" height="151.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="605.218" y="1448.88">Architecture</tspan></text>
+<rect x="525.498" y="1471.19" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="558.95" y="1493.72">Redux</tspan></text>
+<rect x="525.498" y="1526.62" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="562.605" y="1549.14">MVC</tspan></text>
+<rect x="652.464" y="1526.62" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="670.051" y="1549.14">Lifting State</tspan></text>
+<rect x="652.464" y="1471.19" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="684.34" y="1493.72">MVVM</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="791.522" y="1442.02">It is fine to develop </tspan><tspan x="791.522" y="1456.02">apps with a </tspan><tspan x="901.991" y="1456.02"> as </tspan><tspan x="791.522" y="1470.02">long as you follow </tspan><tspan x="791.522" y="1484.02">some architectural </tspan><tspan x="791.522" y="1498.02">agreements or patterns. &#x2028;</tspan><tspan x="791.522" y="1512.02">You may want to switch </tspan><tspan x="791.522" y="1526.02">to </tspan><tspan x="839.252" y="1526.02">, </tspan><tspan x="876.556" y="1526.02">, </tspan><tspan x="906.006" y="1526.02">, </tspan><tspan x="791.522" y="1540.02">or other more </tspan><tspan x="791.522" y="1554.02">architecture-aware </tspan><tspan x="791.522" y="1568.02">patterns.</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="856.139" y="1456.02">Provider</tspan><tspan x="805.255" y="1526.02">Redux</tspan><tspan x="844.625" y="1526.02">MobX</tspan><tspan x="881.929" y="1526.02">Bloc</tspan></text>
+<path d="M470.077 1592.11H298.27" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.069" cy="1592.11" r="20.1534" fill="#83A5FF"/>
+<rect x="168.28" y="1549.29" width="255" height="86.4962" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="275.428" y="1572.32">Testing</tspan></text>
+<rect x="182.388" y="1581.03" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="220.976" y="1603.55">TDD</tspan></text>
+<rect x="309.354" y="1581.03" width="100.263" height="36.7799" fill="#FFEE95"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="347.783" y="1603.55">BDD</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="24.1841" y="1528.18">There is only one way </tspan><tspan x="24.1841" y="1542.18">to write the app fast - </tspan><tspan x="24.1841" y="1556.18">write it right. I would </tspan><tspan x="24.1841" y="1570.18">recommend mastering </tspan><tspan x="24.1841" y="1584.18">the </tspan><tspan x="67.4272" y="1584.18"> approach first </tspan><tspan x="24.1841" y="1598.18">and then switch to the </tspan><tspan x="47.636" y="1612.18">.&#10;</tspan><tspan x="24.1841" y="1626.18">&#10;</tspan><tspan x="24.1841" y="1640.18">&#x201c;</tspan><tspan x="70.6627" y="1668.18">&#x201d; by Kent Beck </tspan><tspan x="24.1841" y="1682.18">might help with this. </tspan><tspan x="24.1841" y="1696.18">Clean Code series from </tspan><tspan x="24.1841" y="1710.18">Uncle Bob has good </tspan><tspan x="24.1841" y="1724.18">coverage of the topic </tspan><tspan x="24.1841" y="1738.18">as well.</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="44.2115" y="1584.18">TDD</tspan><tspan x="24.1841" y="1612.18">BDD</tspan><tspan x="28.4588" y="1640.18">Test-Driven </tspan><tspan x="24.1841" y="1654.18">Development by </tspan><tspan x="24.1841" y="1668.18">Example</tspan></text>
+<path d="M639.364 1694.9H467.557" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.069" cy="1694.9" r="20.1534" fill="#83A5FF"/>
+<rect x="511.391" y="1652.07" width="255" height="86.4962" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="609.068" y="1675.1">Languages</tspan></text>
+<rect x="525.498" y="1683.81" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="561.943" y="1706.34">Swift</tspan></text>
+<rect x="652.464" y="1683.81" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="687.186" y="1706.34">Kotlin</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="791.522" y="1635.49">Learning native mobile </tspan><tspan x="791.522" y="1649.49">development is </tspan><tspan x="791.522" y="1663.49">beneficial for better </tspan><tspan x="791.522" y="1677.49">platform </tspan><tspan x="791.522" y="1691.49">understanding. At some </tspan><tspan x="791.522" y="1705.49">point you&#x2019;ll find that you </tspan><tspan x="791.522" y="1719.49">need to fix an issue in a </tspan><tspan x="791.522" y="1733.49">third-party library or to </tspan><tspan x="791.522" y="1747.49">develop your own </tspan><tspan x="791.522" y="1761.49">plugin. Start with the </tspan><tspan x="834.033" y="1789.49"> and </tspan><tspan x="870.829" y="1803.49">.&#x2028;</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="791.522" y="1775.49">Udacity course for </tspan><tspan x="791.522" y="1789.49">Android</tspan><tspan x="860.106" y="1789.49">Stanford </tspan><tspan x="791.522" y="1803.49">Course for iOS</tspan></text>
+<path d="M467.559 1823.37H295.751" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.069" cy="1822.37" r="20.1534" fill="#83A5FF"/>
+<rect x="170.296" y="1754.85" width="255" height="135.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="286.223" y="1777.88">Dart</tspan></text>
+<rect x="184.403" y="1786.59" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="204.753" y="1809.12">Concurrent</tspan></text>
+<rect x="311.369" y="1786.59" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="338.574" y="1809.12">Reactive</tspan></text>
+<rect x="184.403" y="1840" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="206.43" y="1862.52">Functional</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="24.1841" y="1777.07">Now it is time to </tspan><tspan x="24.1841" y="1791.07">understand how </tspan><tspan x="24.1841" y="1805.07">async/await really </tspan><tspan x="24.1841" y="1819.07">works, what is monad, </tspan><tspan x="24.1841" y="1833.07">why stateless is </tspan><tspan x="24.1841" y="1847.07">beneficial. &#x2028;</tspan><tspan x="24.1841" y="1861.07">You may try </tspan><tspan x="131.453" y="1861.07"> </tspan><tspan x="24.1841" y="1875.07">here.&#x2028;</tspan><tspan x="24.1841" y="1889.07">For deep understaning, </tspan><tspan x="24.1841" y="1903.07">a basic course on </tspan><tspan x="24.1841" y="1917.07">Closure or F# is </tspan><tspan x="24.1841" y="1931.07">recommended.</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="90.3241" y="1861.07">freezed</tspan></text>
+<path d="M639.364 1911.04H467.557" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.069" cy="1911.04" r="20.1534" fill="#83A5FF"/>
+<rect x="511.391" y="1835.47" width="255" height="151.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="589.826" y="1858.49">Package Manager</tspan></text>
+<rect x="525.499" y="1880.81" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="565.085" y="1903.33">Pub</tspan></text>
+<rect x="652.464" y="1880.81" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="660.398" y="1903.33">Popular Plugins</tspan></text>
+<rect x="525.499" y="1936.23" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="557.681" y="1958.76">Maven</tspan></text>
+<rect x="652.464" y="1936.23" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="671.557" y="1958.76">CocoaPods</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="791.522" y="1893.96">Create your own plugin. </tspan><tspan x="791.522" y="1907.96">Too easy? Create a </tspan><tspan x="791.522" y="1921.96">plugin with a native </tspan><tspan x="791.522" y="1935.96">view. Still easy? Make it </tspan><tspan x="791.522" y="1949.96">not to leak &#x1f642;</tspan></text>
+<path d="M469.07 2037H297.263" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.069" cy="2036.5" r="20.1534" fill="#83A5FF"/>
+<rect x="171.808" y="1971.5" width="255" height="135.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="276.151" y="1994.53">Profiling</tspan></text>
+<rect x="185.915" y="2003.24" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="220.117" y="2025.77">Leaks</tspan></text>
+<rect x="312.881" y="2003.24" width="100.263" height="36.7799" fill="#FFEE95"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="332.877" y="2025.77">Allocations</tspan></text>
+<rect x="185.915" y="2056.65" width="100.263" height="36.7799" fill="#FFEE95"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="201.075" y="2079.17">Performance</tspan></text>
+<rect x="309.354" y="2056.65" width="100.263" height="36.7799" fill="#FFEE95"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="337.54" y="2079.17">Widgets</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="24.1841" y="1993.72">At least understand </tspan><tspan x="24.1841" y="2007.72">how to find memory </tspan><tspan x="24.1841" y="2021.72">leaks, but performance </tspan><tspan x="24.1841" y="2035.72">issues hunting is worth </tspan><tspan x="24.1841" y="2049.72">it as well. Start with a </tspan><tspan x="24.1841" y="2063.72">talk by </tspan><tspan x="129.907" y="2063.72">on</tspan><tspan x="100.786" y="2077.72"> on </tspan><tspan x="24.1841" y="2091.72">Youtube.</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="62.2314" y="2063.72">Filip Hr&#xe1;&#x10d;ek </tspan><tspan x="143.475" y="2063.72"> </tspan><tspan x="24.1841" y="2077.72">Flutter Europe</tspan></text>
+<path d="M642.387 2115.6H470.58" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.572" cy="2115.6" r="20.1534" fill="#83A5FF"/>
+<rect x="514.414" y="2062.19" width="255" height="151.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="598.517" y="2085.22">Flutter Internals</tspan></text>
+<rect x="528.521" y="2107.54" width="100.263" height="36.7799" fill="#FFEE95"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="548.553" y="2123.06">Framework </tspan><tspan x="545.896" y="2137.06">Architecture</tspan></text>
+<rect x="655.487" y="2107.54" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="683.56" y="2130.06">Dart VM</tspan></text>
+<rect x="528.521" y="2162.96" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="539.254" y="2185.48">RenderObjects</tspan></text>
+<rect x="655.487" y="2162.96" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="684.428" y="2185.48">Layouts</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="793.538" y="2057.2">Get familiar with the </tspan><tspan x="793.538" y="2071.2">framework </tspan><tspan x="793.538" y="2085.2">architecture, and learn </tspan><tspan x="793.538" y="2099.2">how it actually paints </tspan><tspan x="793.538" y="2113.2">and layout your </tspan><tspan x="793.538" y="2127.2">widgets.&#x2028;</tspan><tspan x="793.538" y="2141.2">&#x2028;</tspan><tspan x="836.663" y="2169.2"> by Adam Barth </tspan><tspan x="793.538" y="2183.2">and </tspan><tspan x="859.229" y="2197.2"> by Ian </tspan><tspan x="793.538" y="2211.2">Hickson should be </tspan><tspan x="793.538" y="2225.2">good for starting.</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="793.538" y="2155.2">Flutter&#39;s rendering </tspan><tspan x="793.538" y="2169.2">pipeline</tspan><tspan x="816.612" y="2183.2">Flutter&#39;s </tspan><tspan x="793.538" y="2197.2">architecture</tspan></text>
+<path d="M470.581 2445.87L298.774 2446.35" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.574" cy="2446.11" r="20.1534" fill="#83A5FF"/>
+<rect x="172.312" y="2378.6" width="255" height="135.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="237.468" y="2401.63">Continuous Integration</tspan></text>
+<rect x="186.418" y="2410.34" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="212.897" y="2432.86">CI server</tspan></text>
+<rect x="186.418" y="2458.71" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="206.863" y="2474.23">Test Builds </tspan><tspan x="205.535" y="2488.23">Distribution</tspan></text>
+<rect x="313.385" y="2458.71" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="327.724" y="2481.23">Code metrics</tspan></text>
+<rect x="313.385" y="2410.34" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="338.807" y="2432.86">FastLane</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="24.1841" y="2367.56">Never ever create </tspan><tspan x="24.1841" y="2381.56">production builds from </tspan><tspan x="24.1841" y="2395.56">the local dev folder. You </tspan><tspan x="24.1841" y="2409.56">may use Codemagic, </tspan><tspan x="24.1841" y="2423.56">Travis, GitHub Actions, </tspan><tspan x="24.1841" y="2437.56">Circle CI, or (in the </tspan><tspan x="24.1841" y="2451.56">worst scenario) register </tspan><tspan x="24.1841" y="2465.56">your dev machine as a </tspan><tspan x="24.1841" y="2479.56">CI node. Build the </tspan><tspan x="24.1841" y="2493.56">software development </tspan><tspan x="24.1841" y="2507.56">lifecycle, collect code </tspan><tspan x="24.1841" y="2521.56">coverage and other </tspan><tspan x="24.1841" y="2535.56">metrics. &#x2028;</tspan><tspan x="24.1841" y="2549.56">Read about </tspan><tspan x="127.332" y="2549.56">, </tspan><tspan x="84.6087" y="2563.56">, but most </tspan><tspan x="24.1841" y="2577.56">importantly - </tspan><tspan x="144.549" y="2577.56">.</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="88.3402" y="2549.56">Danger</tspan><tspan x="24.1841" y="2563.56">SonarQube</tspan><tspan x="94.9767" y="2577.56">FastLane</tspan></text>
+<path d="M645.914 2549.4H474.106" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.572" cy="2549.4" r="20.1534" fill="#83A5FF"/>
+<rect x="514.413" y="2483.4" width="255" height="135.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="616.802" y="2506.42">Analytics</tspan></text>
+<rect x="528.521" y="2515.14" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="541.42" y="2530.66">User Behavior </tspan><tspan x="554.02" y="2544.66">Analytics</tspan></text>
+<rect x="655.487" y="2515.14" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="666.821" y="2537.66">Crash Logging</tspan></text>
+<rect x="528.521" y="2568.54" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="547.253" y="2591.07">A/B Testing</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="793.538" y="2505.61">It is always a bad idea </tspan><tspan x="793.538" y="2519.61">to ship builds without </tspan><tspan x="793.538" y="2533.61">any analytics. Get </tspan><tspan x="793.538" y="2547.61">yourself comfortable </tspan><tspan x="793.538" y="2561.61">with </tspan><tspan x="865.924" y="2561.61">, </tspan><tspan x="829.814" y="2575.61">, or any other </tspan><tspan x="793.538" y="2589.61">service, which will give </tspan><tspan x="793.538" y="2603.61">it at no time for free.</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="819.186" y="2561.61">Firebase</tspan><tspan x="871.297" y="2561.61">MS App </tspan><tspan x="793.538" y="2575.61">Center</tspan></text>
+<path d="M469.573 2673.34H297.766" stroke="#83A5FF" stroke-width="5.03834"/>
+<circle cx="469.573" cy="2673.34" r="20.1534" fill="#83A5FF"/>
+<rect x="173.822" y="2605.83" width="255" height="135.496" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="286.809" y="2628.85">Store</tspan></text>
+<rect x="187.93" y="2637.57" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="213.175" y="2653.09">AppStore </tspan><tspan x="209.916" y="2667.09">Guidelines</tspan></text>
+<rect x="314.896" y="2637.57" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="333.05" y="2653.09">Google Play </tspan><tspan x="336.882" y="2667.09">Guidelines</tspan></text>
+<rect x="187.93" y="2690.98" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="211.675" y="2706.5">App Store </tspan><tspan x="215.655" y="2720.5">Connect</tspan></text>
+<rect x="311.37" y="2690.98" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="330.852" y="2706.5">Google Dev </tspan><tspan x="339.537" y="2720.5">Console</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="24.1841" y="2613.94">Before starting your </tspan><tspan x="24.1841" y="2627.94">mobile dev career you </tspan><tspan x="24.1841" y="2641.94">need to understand </tspan><tspan x="24.1841" y="2655.94">which apps are legal for </tspan><tspan x="24.1841" y="2669.94">shipping to the Stores. </tspan><tspan x="24.1841" y="2683.94">It is your responsibility </tspan><tspan x="24.1841" y="2697.94">to advise your clients </tspan><tspan x="24.1841" y="2711.94">regarding what is </tspan><tspan x="24.1841" y="2725.94">possible and what is </tspan><tspan x="24.1841" y="2739.94">not.</tspan></text>
+<rect x="555.225" y="50.3833" width="368" height="87.4962" rx="15.6188" fill="#EFEFEF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" font-weight="bold" letter-spacing="0em"><tspan x="716.044" y="73.4101">Legends</tspan></text>
+<rect x="574.874" y="88.6748" width="100.263" height="36.7799" fill="#95C6FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="597.131" y="111.198">Must have</tspan></text>
+<rect x="689.748" y="88.6748" width="100.263" height="36.7799" fill="#FFEE95"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="706.697" y="111.198">Nice to have</tspan></text>
+<rect x="804.623" y="88.6748" width="100.263" height="36.7799" fill="#C495FF"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="832.211" y="111.198">Optional</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="24.1841" y="148.68">by Oleksandr Leuschenko (@olexale)</tspan></text>
+<path d="M24.1851 50.3834H448.413V138.554H24.1851V50.3834Z" fill="white"/>
+<g filter="url(#filter5_d)">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32.2454" letter-spacing="0em"><tspan x="24.1851" y="86.4902">Highly Subjective Roadmap&#10;</tspan><tspan x="24.1851" y="124.49">to Flutter Development</tspan></text>
+</g>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="24.1841" y="2923.8">Refer to </tspan><tspan x="303.162" y="2923.8"> for the latest version and links.</tspan></text>
+<text fill="#001AFF" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12.092" letter-spacing="0em"><tspan x="69.352" y="2923.8">https://github.com/olexale/flutter_roadmap</tspan></text>
+<defs>
+<filter id="filter0_d" x="409.365" y="2808.63" width="117.346" height="28.5296" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2.01534"/>
+<feGaussianBlur stdDeviation="1.00767"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="415.884" y="2287.18" width="105.175" height="66.5296" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2.01534"/>
+<feGaussianBlur stdDeviation="1.00767"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_d" x="416.765" y="1251.24" width="104.325" height="71.8198" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2.01534"/>
+<feGaussianBlur stdDeviation="1.00767"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter3_d" x="423.174" y="544.903" width="93.4612" height="28.5296" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2.01534"/>
+<feGaussianBlur stdDeviation="1.00767"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter4_d" x="421.662" y="178.049" width="95.382" height="27.5849" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2.01534"/>
+<feGaussianBlur stdDeviation="1.00767"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter5_d" x="22.3113" y="62.1995" width="393.73" height="72.7645" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2.01534"/>
+<feGaussianBlur stdDeviation="1.00767"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>
