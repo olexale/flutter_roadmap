@@ -7,6 +7,7 @@
 #### Dev Environment
 * https://learngitbranching.js.org
 
+
 #### Language
 * https://dart.dev/guides/language/language-tour
 * https://dart.dev/guides/language/effective-dart
@@ -48,6 +49,7 @@
 * https://pub.dev/packages/flutter_redux
 * https://pub.dev/packages/flutter_mobx
 * https://pub.dev/packages/flutter_bloc
+* https://flutter.dev/docs/development/data-and-backend/state-mgmt/options // You Have Multiple choice in FLUTTER 
 
 #### Testing
 * https://en.wikipedia.org/wiki/Test-driven_development
@@ -92,6 +94,15 @@
 * https://developer.apple.com/app-store/review/guidelines/
 * https://play.google.com/about/developer-content-policy/
 * https://developer.android.com/distribute/best-practices/launch/launch-checklist
+
+#### Animation 
+* https://flutter.dev/docs/development/ui/animations
+* https://flutter.dev/docs/development/ui/animations/tutorial
+
+ #### You can add existing app into Flutter app
+ * https://flutter.dev/docs/development/add-to-app
+ 
+   
 
 ## Contribution
 Do not hesitate to add more useful links, or suggest changes to the roadmap. Opinions are highly appreciated!
