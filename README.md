@@ -56,7 +56,7 @@
 
 #### Languages
 * https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
-* https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316 (let’s hope for the updated version)
+* https://cs193p.sites.stanford.edu
 
 #### Dart
 * https://pub.dev/packages/freezed
