@@ -15,7 +15,7 @@ by Oleksandr Leuschenko (@oleaxe)
 
 * **Language**
   * Dart (Must have)
-  * OOP (Nice to have)
+  * OOP (Must have)
   * Functional (Nice to have)
   * Code Style (Optional)
 
@@ -57,6 +57,22 @@ by Oleksandr Leuschenko (@oleaxe)
   You need to understand how networking works and know all the magic in frontend-backend communication. Use code generation in production.
   
   **Chopper** and **json_serializable** are your best friends here.
+  
+* **Error Handling**
+  * Try-Catch (Must have)
+  * Async, Await (Must have)
+
+   Error Handling are neccessary requirement in any project. It help to write some action even on code Runtime errors and avoid unwanted result , app crash 
+   or failure.
+  
+* **Native Features**
+  * AndroidManifest (Nice to have)
+  * Info.plist (Nice to have)
+
+   You need to understand Native features and Hardware access of platform. Most of these are already available at pub.dev. Still creating your own plugin and package
+   will come in handy in your projects.
+  
+  **PlatformChannel** will be used here.
 
 * **Simple Persistence**
   * Serializers (Must have)
