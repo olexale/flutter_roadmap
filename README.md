@@ -28,14 +28,25 @@
 * https://pub.dev/packages/provider
 * https://pub.dev/packages/get_it
 
+#### Error Hanlding
+* https://dart.dev/codelabs/async-await#handling-errors
+
 #### Networking
 * https://en.wikipedia.org/wiki/Representational_state_transfer
 * https://pub.dev/packages/chopper
 * https://pub.dev/packages/json_serializable
+* https://pub.dev/packages/dio
+
+### Native
+https://docs.flutter.dev/development/packages-and-plugins/developing-packages
+https://docs.flutter.dev/development/platform-integration/platform-views
+https://codepen.io/riccio85/pen/wvMeaMe
+https://pub.dev/packages?q=native
 
 #### Simple Persistence
 * https://pub.dev/packages/localstorage
 * https://pub.dev/packages/flutter_keychain
+* https://pub.dev/packages/shared_preferences
 
 #### Database
 * https://pub.dev/packages/sqflite
@@ -48,6 +59,7 @@
 * https://pub.dev/packages/flutter_redux
 * https://pub.dev/packages/flutter_mobx
 * https://pub.dev/packages/flutter_bloc
+* https://pub.dev/packages/provider
 
 #### Testing
 * https://en.wikipedia.org/wiki/Test-driven_development
@@ -91,6 +103,7 @@
 #### Store
 * https://developer.apple.com/app-store/review/guidelines/
 * https://play.google.com/about/developer-content-policy/
+* https://firebase.google.com/docs/app-distribution
 * https://developer.android.com/distribute/best-practices/launch/launch-checklist
 
 ## Contribution
