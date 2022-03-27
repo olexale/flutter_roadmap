@@ -87,6 +87,8 @@
 #### Analytics
 * https://firebase.google.com/docs/analytics
 * https://docs.microsoft.com/en-us/appcenter/analytics/
+* https://mixpanel.com/
+* https://www.smartlook.com/
 
 #### Store
 * https://developer.apple.com/app-store/review/guidelines/
