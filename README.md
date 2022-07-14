@@ -5,7 +5,12 @@
 ![roadmap](images/FlutterRoadmap.png)
 
 #### Dev Environment
-* https://learngitbranching.js.org
+* [Android Studio Shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts) - Shortcuts to speed up development in Android Studio.
+* [VSCode Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) - Shortcuts to speed up development in VSCode.
+* [Flutter CLI](https://www.geeksforgeeks.org/flutter-important-cli-commands/) - Detailed Explanation to all the Flutter CLI commands.
+* [DartPad Tutorial](https://dart.dev/resources/dartpad-best-practices) - Everything DartPad has to offer.
+* [DartPad online](https://dartpad.dev/) - Start working online with Dart & Flutter without any download.
+* [Interactive Git learning online](https://learngitbranching.js.org) - Learn git commands in an interactive way on `learngitbranching` website.
 
 #### Language
 * https://dart.dev/guides/language/language-tour
