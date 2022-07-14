@@ -87,6 +87,8 @@
 #### Analytics
 * https://firebase.google.com/docs/analytics
 * https://docs.microsoft.com/en-us/appcenter/analytics/
+* https://developer.mixpanel.com/docs/flutter
+* https://docs.smartlook.com/docs/sdk/flutter
 
 #### Store
 * https://developer.apple.com/app-store/review/guidelines/
