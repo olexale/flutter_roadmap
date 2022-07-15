@@ -13,8 +13,15 @@
 * [Interactive Git learning online](https://learngitbranching.js.org) - Learn git commands in an interactive way on `learngitbranching` website.
 
 #### Language
-* https://dart.dev/guides/language/language-tour
-* https://dart.dev/guides/language/effective-dart
+* [Dart Language Tour](https://dart.dev/guides/language/language-tour) - For those new to programming and starting with programming.
+* [Effective Dart](https://dart.dev/guides/language/effective-dart) - For those who know atleast the basics of Dart. Contains best practises in Dart.
+* [Code Style](https://infinum.com/handbook/flutter/basics/coding-style) - Best practises while coding in Dart.
+* [Dart OOP](https://levelup.gitconnected.com/fluttering-dart-oop-8b92cd89a7f0) - Comprehensive guide to OOP in Dart
+* [Data Types](https://levelup.gitconnected.com/fluttering-dart-9a3e74b0d9c5) - Comprehensive guide to the 8 data types available in Dart and when to use them.
+* [Dart Functions](https://levelup.gitconnected.com/fluttering-dart-b37110f4d1bf) - Explanation to the different types of Dart functions and how to use them.
+* [Dart Operators](https://levelup.gitconnected.com/fluttering-dart-ee493f4b0440) - Cheatsheet for operators in Dart
+* [Dart Control Statements](https://levelup.gitconnected.com/fluttering-dart-the-flow-7be2080763ad) - Complete guide to control statements like if, else, while, do-while etc in Dart.
+* [Futures & Isolates](https://levelup.gitconnected.com/fluttering-dart-futures-and-isolates-6b4bce6d804b) - For those looking for In-depth knowledge of how Flutter works
 
 #### Basic Widgets
 * https://flutter.dev/docs/development/ui/widgets-intro
@@ -58,6 +65,8 @@
 * https://en.wikipedia.org/wiki/Test-driven_development
 * https://en.wikipedia.org/wiki/Behavior-driven_development
 * https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
+* [Unit Testing](https://a-flutter-dev.medium.com/fluttering-dart-unit-testing-f58dae6bc1f) - How to write modular, efficient and bug-free code
+
 
 #### Languages
 * https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
@@ -68,6 +77,7 @@
 * https://fsharpforfunandprofit.com
 
 #### Package Manager
+* [Libraries and Packages](https://levelup.gitconnected.com/fluttering-dart-libraries-and-packages-972edf864ff9) - How to use, build, reuse and share your code
 * https://flutter.dev/docs/development/packages-and-plugins/developing-packages
 * https://cocoapods.org
 * https://maven.apache.org
