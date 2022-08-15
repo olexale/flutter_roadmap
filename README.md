@@ -100,5 +100,9 @@
 * https://play.google.com/about/developer-content-policy/
 * https://developer.android.com/distribute/best-practices/launch/launch-checklist
 
+### Books
+* https://www.raywenderlich.com/books/dart-apprentice/v1.1
+* https://fluttercompletereference.com/
+
 ## Contribution
 Do not hesitate to add more useful links, or suggest changes to the roadmap. Opinions are highly appreciated!
