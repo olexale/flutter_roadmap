@@ -1,4 +1,5 @@
-# Flutter Roadmap <a href="https://github.com/Solido/awesome-flutter">
+# Flutter Roadmap 
+<a href="https://github.com/Solido/awesome-flutter">
    <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
 </a>
 
@@ -6,24 +7,27 @@
 
 #### Dev Environment
 * [Android Studio Shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts) - Shortcuts to speed up development in Android Studio.
-* [VSCode Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) - Shortcuts to speed up development in VSCode.
-* [Flutter CLI](https://www.geeksforgeeks.org/flutter-important-cli-commands/) - Detailed Explanation to all the Flutter CLI commands.
+* VSCode Shortcuts for [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf), [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) - Shortcuts to speed up development in VSCode.
+* [Flutter CLI](https://docs.flutter.dev/reference/flutter-cli) - Detailed Explanation to all the Flutter CLI commands.
+* [DartPad](https://dartpad.dev/) - a tool for creating effective and engaging educational content for Dart and Flutter users.
 * [DartPad Tutorial](https://dart.dev/resources/dartpad-best-practices) - Everything DartPad has to offer.
-* [DartPad online](https://dartpad.dev/) - Start working online with Dart & Flutter without any download.
+* [Zapp!](https://zapp.run) - free online sandbox environment for building & sharing Dart & Flutter applications, supporting all pub.dev packages, static analysis , embedding, previewing and much more.
 * [Interactive Git learning online](https://learngitbranching.js.org) - Learn git commands in an interactive way on `learngitbranching` website.
 
 #### Language
-* https://dart.dev/guides/language/language-tour
-* https://dart.dev/guides/language/effective-dart
+* https://dart.dev/guides/language/language-tour - a brief tour of the Dart language.
+* https://dart.dev/guides/language/effective-dart - a guide to writing better Dart code.
 
 #### Basic Widgets
+* [Widget of the Week playlist](https://youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
+* [Package of the Week playlist](https://youtube.com/playlist?list=PLjxrf2q8roU1quF6ny8oFHJ2gBdrYN_AK)
 * https://flutter.dev/docs/development/ui/widgets-intro
-* https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG
 * http://material.io
 * https://developer.apple.com/design/
 
 #### Core Design Patterns
 * https://en.wikipedia.org/wiki/Design_Patterns
+* [The "Gang of Four" aka "Design Patterns: Elements of Reusable Object-Oriented Software" book](https://en.wikipedia.org/wiki/Design_Patterns)
 
 #### Core Design Principles
 * https://en.wikipedia.org/wiki/KISS_principle
@@ -32,25 +36,28 @@
 * https://cleancoders.com
 * https://pub.dev/packages/provider
 * https://pub.dev/packages/get_it
+* https://pub.dev/packages/injectable
 
 #### Networking
 * https://en.wikipedia.org/wiki/Representational_state_transfer
-* https://pub.dev/packages/chopper
+* https://pub.dev/packages/retrofit
 * https://pub.dev/packages/json_serializable
 
 #### Simple Persistence
-* https://pub.dev/packages/localstorage
-* https://pub.dev/packages/flutter_keychain
+* https://pub.dev/packages/shared_preferences
+* https://pub.dev/packages/flutter_secure_storage
 
 #### Database
+* https://pub.dev/packages/isar
 * https://pub.dev/packages/sqflite
-* https://pub.dev/packages/firebase
-* https://pub.dev/packages/moor
-* https://pub.dev/packages/hive
+* https://pub.dev/packages/firebase_storage
+* https://pub.dev/packages/cloud_firestore
+* https://pub.dev/packages/icloud_storage
+
 
 #### Architecture
 * https://fluttersamples.com
-* https://pub.dev/packages/flutter_redux
+* https://pub.dev/packages/async_redux
 * https://pub.dev/packages/flutter_mobx
 * https://pub.dev/packages/flutter_bloc
 
@@ -68,9 +75,9 @@
 * https://fsharpforfunandprofit.com
 
 #### Package Manager
-* https://flutter.dev/docs/development/packages-and-plugins/developing-packages
-* https://cocoapods.org
-* https://maven.apache.org
+* [Developing packages & plugins](https://flutter.dev/docs/development/packages-and-plugins/developing-packages) - How to develop packages and plugins for Flutter.
+* [CocoaPods](https://cocoapods.org) - package manager for Swift and Objective-C projects.
+* [Gradle](https://docs.gradle.org/current/userguide/userguide.html) - build automation system and package manager for Android.
 
 #### Profiling
 * https://flutter.dev/docs/perf/rendering/ui-performance
@@ -81,6 +88,10 @@
 * https://youtu.be/dkyY9WCGMi0
 * http://www.cs.cmu.edu/~bam/uicourse/830spring20/05-830-2020-03-23-Lecture-10-Flutter.mp4
 * https://mrale.ph/dartvm/
+
+#### Security
+* [OWASP MASVS](https://owasp.org/www-project-mobile-app-security/) - Mobile Application Security Verification Standard
+* https://pub.dev/packages/freerasp
 
 #### Continuous Integration
 * https://fastlane.tools
@@ -94,6 +105,7 @@
 * https://docs.microsoft.com/en-us/appcenter/analytics/
 * https://developer.mixpanel.com/docs/flutter
 * https://docs.smartlook.com/docs/sdk/flutter
+* https://pub.dev/packages/datadog_flutter_plugin
 
 #### Store
 * https://developer.apple.com/app-store/review/guidelines/
