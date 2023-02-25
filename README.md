@@ -9,6 +9,7 @@
 * [Android Studio Shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts) - Shortcuts to speed up development in Android Studio.
 * VSCode Shortcuts for [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf), [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) - Shortcuts to speed up development in VSCode.
 * [Flutter CLI](https://docs.flutter.dev/reference/flutter-cli) - Detailed Explanation to all the Flutter CLI commands.
+* [Dart CLI](https://dart.dev/tools/dart-tool) - Detailed Explanation to all the Dart CLI commands (dart fix might be quick useful in day-to-day development).
 * [DartPad](https://dartpad.dev/) - a tool for creating effective and engaging educational content for Dart and Flutter users.
 * [DartPad Tutorial](https://dart.dev/resources/dartpad-best-practices) - Everything DartPad has to offer.
 * [Zapp!](https://zapp.run) - free online sandbox environment for building & sharing Dart & Flutter applications, supporting all pub.dev packages, static analysis , embedding, previewing and much more.
@@ -17,6 +18,10 @@
 #### Language
 * https://dart.dev/guides/language/language-tour - a brief tour of the Dart language.
 * https://dart.dev/guides/language/effective-dart - a guide to writing better Dart code.
+* https://dart.dev/guides/language/analysis-options - a static analysis setup guide.
+* https://dart.dev/guides/language/sound-problems - a guide on how to fix common problems in Dart code.
+* https://dart.dev/tools/linter-rules - a list of all available Dart linter rules.
+* https://dcm.dev/ - a tool to help you manage code quality and consistency (provides additional lint rules, code metrics and more).
 
 #### Basic Widgets
 * [Widget of the Week playlist](https://youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
