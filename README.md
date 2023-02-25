@@ -9,7 +9,7 @@
 * [Android Studio Shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts) - Shortcuts to speed up development in Android Studio.
 * VSCode Shortcuts for [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf), [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) - Shortcuts to speed up development in VSCode.
 * [Flutter CLI](https://docs.flutter.dev/reference/flutter-cli) - Detailed Explanation to all the Flutter CLI commands.
-* [Dart CLI](https://dart.dev/tools/dart-tool) - Detailed Explanation to all the Dart CLI commands (dart fix might be quick useful in day-to-day development).
+* [Dart CLI](https://dart.dev/tools/dart-tool) - Detailed Explanation to all the Dart CLI commands (`dart fix` might be quite useful in day-to-day development).
 * [DartPad](https://dartpad.dev/) - a tool for creating effective and engaging educational content for Dart and Flutter users.
 * [DartPad Tutorial](https://dart.dev/resources/dartpad-best-practices) - Everything DartPad has to offer.
 * [Zapp!](https://zapp.run) - free online sandbox environment for building & sharing Dart & Flutter applications, supporting all pub.dev packages, static analysis , embedding, previewing and much more.
