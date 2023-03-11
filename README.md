@@ -34,7 +34,7 @@
 * https://en.wikipedia.org/wiki/Design_Patterns
 * [The "Gang of Four" aka "Design Patterns: Elements of Reusable Object-Oriented Software" book](https://en.wikipedia.org/wiki/Design_Patterns)
 * [Flutter Design Patterns](https://flutterdesignpatterns.com)
-
+* [Repository Patterns](https://codewithandrea.com/articles/flutter-repository-pattern)
 #### Core Design Principles
 * https://en.wikipedia.org/wiki/KISS_principle
 * https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
