@@ -21,12 +21,14 @@
 * https://dart.dev/guides/language/analysis-options - a static analysis setup guide.
 * https://dart.dev/guides/language/sound-problems - a guide on how to fix common problems in Dart code.
 * https://dart.dev/tools/linter-rules - a list of all available Dart linter rules.
+* https://dart.dev/codelabs/async-await - Asyncronous Programming | Future and Async/Await
 * https://dcm.dev/ - a tool to help you manage code quality and consistency (provides additional lint rules, code metrics and more).
 
 #### Basic Widgets
 * [Widget of the Week playlist](https://youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
 * [Package of the Week playlist](https://youtube.com/playlist?list=PLjxrf2q8roU1quF6ny8oFHJ2gBdrYN_AK)
 * https://flutter.dev/docs/development/ui/widgets-intro
+* https://api.flutter.dev/flutter/widgets/widgets-library.html
 * http://material.io
 * https://developer.apple.com/design/
 
@@ -34,6 +36,7 @@
 * https://en.wikipedia.org/wiki/Design_Patterns
 * [The "Gang of Four" aka "Design Patterns: Elements of Reusable Object-Oriented Software" book](https://en.wikipedia.org/wiki/Design_Patterns)
 * [Flutter Design Patterns](https://flutterdesignpatterns.com)
+* [Refactoring Guru](https://refactoring.guru/design-patterns)
 
 #### Core Design Principles
 * https://en.wikipedia.org/wiki/KISS_principle
@@ -46,6 +49,7 @@
 
 #### Networking
 * https://en.wikipedia.org/wiki/Representational_state_transfer
+* [REST API Tutorial](https://restfulapi.net/)
 * https://pub.dev/packages/retrofit
 * https://pub.dev/packages/json_serializable
 
@@ -62,19 +66,24 @@
 
 
 #### Architecture
+* [Flutter State Management Options](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options)
 * https://fluttersamples.com
 * https://pub.dev/packages/async_redux
 * https://pub.dev/packages/flutter_mobx
 * https://pub.dev/packages/flutter_bloc
+* [Bloc Library Docs](https://bloclibrary.dev)
 
 #### Testing
 * https://en.wikipedia.org/wiki/Test-driven_development
 * https://en.wikipedia.org/wiki/Behavior-driven_development
 * https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
 
-#### Languages
+#### Android & iOS
 * https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
+* [Android Documentation](https://developer.android.com)
 * https://cs193p.sites.stanford.edu
+* [Apple SwiftUI tutorial](https://developer.apple.com/tutorials/SwiftUI)
+* [Apple App Dev Training](https://developer.apple.com/tutorials/app-dev-training)
 
 #### Dart
 * https://pub.dev/packages/freezed
@@ -94,6 +103,9 @@
 * https://youtu.be/dkyY9WCGMi0
 * http://www.cs.cmu.edu/~bam/uicourse/830spring20/05-830-2020-03-23-Lecture-10-Flutter.mp4
 * https://mrale.ph/dartvm/
+* https://surf.dev/flutter-under-the-hood/
+* https://docs.flutter.dev/resources/architectural-overview
+* https://surf.dev/flutter-architecture-guide/
 
 #### Security
 * [OWASP MASVS](https://owasp.org/www-project-mobile-app-security/) - Mobile Application Security Verification Standard
