@@ -34,6 +34,7 @@
 * https://en.wikipedia.org/wiki/Design_Patterns
 * [The "Gang of Four" aka "Design Patterns: Elements of Reusable Object-Oriented Software" book](https://en.wikipedia.org/wiki/Design_Patterns)
 * [Flutter Design Patterns](https://flutterdesignpatterns.com)
+* [Refactoring Guru](https://refactoring.guru/design-patterns)
 
 #### Core Design Principles
 * https://en.wikipedia.org/wiki/KISS_principle
@@ -94,6 +95,9 @@
 * https://youtu.be/dkyY9WCGMi0
 * http://www.cs.cmu.edu/~bam/uicourse/830spring20/05-830-2020-03-23-Lecture-10-Flutter.mp4
 * https://mrale.ph/dartvm/
+* https://surf.dev/flutter-under-the-hood/
+* https://docs.flutter.dev/resources/architectural-overview
+* https://surf.dev/flutter-architecture-guide/
 
 #### Security
 * [OWASP MASVS](https://owasp.org/www-project-mobile-app-security/) - Mobile Application Security Verification Standard
