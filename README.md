@@ -11,7 +11,7 @@
 * [Flutter CLI](https://docs.flutter.dev/reference/flutter-cli) - Detailed Explanation to all the Flutter CLI commands.
 * [Dart CLI](https://dart.dev/tools/dart-tool) - Detailed Explanation to all the Dart CLI commands (`dart fix` might be quite useful in day-to-day development).
 * [DartPad](https://dartpad.dev/) - a tool for creating effective and engaging educational content for Dart and Flutter users.
-* [DartPad Tutorial](https://dart.dev/resources/dartpad-best-practices) - Everything DartPad has to offer.
+* [DartPad Documentation](https://dart.dev/tools/dartpad) - DartPad documentation on [dart.dev](https://dart.dev).
 * [Zapp!](https://zapp.run) - free online sandbox environment for building & sharing Dart & Flutter applications, supporting all pub.dev packages, static analysis , embedding, previewing and much more.
 * [Interactive Git learning online](https://learngitbranching.js.org) - Learn git commands in an interactive way on `learngitbranching` website.
 
