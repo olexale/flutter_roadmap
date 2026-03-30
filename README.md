@@ -111,6 +111,10 @@
 * https://codemagic.io/
 * https://travis-ci.org
 
+#### OTA Updates (Over-the-Air)
+* https://shorebird.dev/
+* https://firebase.google.com/docs/remote-config
+
 #### Analytics
 * https://firebase.google.com/docs/analytics
 * https://docs.microsoft.com/en-us/appcenter/analytics/
